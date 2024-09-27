@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('hello pf-cli-dev2');
+console.log('hello pf-cli-dev');
