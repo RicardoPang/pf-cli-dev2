@@ -1,6 +1,6 @@
 {
   "name": "@pf-cli-dev2/core",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "pf-cli-dev core",
   "author": "pangfeng <ricardo.pangj@gmail.com>",
   "homepage": "",
@@ -23,6 +23,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pf-cli-dev2/utils": "^1.0.6"
+    "@pf-cli-dev2/utils": "^1.0.7"
   }
 }
